@@ -1,3 +1,7 @@
+Here's your updated version with **GitLab CI/CD** added:  
+
+---
+
 # 👋 Hello, I'm S Sanjay !  
 
 ## 🌩️ Cloud & DevOps Engineer | Automation Enthusiast  
@@ -13,7 +17,7 @@ I'm a **Cloud & DevOps Engineer** with a passion for automating infrastructure, 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>  
 
 ---
@@ -43,6 +47,7 @@ I'm a **Cloud & DevOps Engineer** with a passion for automating infrastructure, 
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>  
 
 ---
@@ -60,6 +65,7 @@ I'm a **Cloud & DevOps Engineer** with a passion for automating infrastructure, 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>  
 
 ---
@@ -79,6 +85,7 @@ I'm a **Cloud & DevOps Engineer** with a passion for automating infrastructure, 
 ✅ **Site Reliability Engineering (SRE) Principles**  
 ✅ **Cloud Security & DevSecOps**  
 
+---
 
 ## 🔗 Connect with Me  
 
@@ -86,3 +93,5 @@ I'm a **Cloud & DevOps Engineer** with a passion for automating infrastructure, 
 💼 **LinkedIn:** *(https://www.linkedin.com/in/s-sanjay-s/)*  
 
 💡 *Let’s connect and collaborate on exciting DevOps & Cloud projects!* 🚀  
+
+---
